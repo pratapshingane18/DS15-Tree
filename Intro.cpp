@@ -35,6 +35,21 @@ Which dont have any Child.
 
 
 
+Binary Tree:
+
+Tree which every Node can have Maximum of 2 Childrens.
+
+
+Node:
+
+node 
+{
+    int data;
+    int *left;
+    int *right;
+};
+
+        
 
 
 
